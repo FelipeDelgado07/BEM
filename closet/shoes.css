@@ -5,5 +5,6 @@
 .closet__shoes--item {
     text-decoration: line-through;
     text-decoration-color: black;
+    background-color: bisque;
 
 }
