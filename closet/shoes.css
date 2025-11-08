@@ -1,0 +1,9 @@
+.closet__shoes {
+    color: red;
+}
+
+.closet__shoes--item {
+    text-decoration: line-through;
+    text-decoration-color: black;
+
+}
